@@ -14,4 +14,4 @@ def is_missing(value):
 
 
 def broken_total():
-    return missing_total
+    return 0
